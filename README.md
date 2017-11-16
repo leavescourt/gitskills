@@ -1,4 +1,5 @@
 # gitskills
-1. git clone git@github.com:leavescourt/gitskills.git   ¿ËÂ¡Ô¶³Ì²Ö¿âµÄgit²Ö¿â
-2. »¹¿ÉÒÔÓÃhttps://github.com/michaelliao/gitskills.gitÕâÑùµÄµØÖ·
-3. Ê¹ÓÃhttps³ıÁËËÙ¶ÈÂıÒÔÍâ£¬»¹ÓĞ¸ö×î´óµÄÂé·³ÊÇÃ¿´ÎÍÆËÍ¶¼±ØĞëÊäÈë¿ÚÁî£¬µ«ÊÇÔÚÄ³Ğ©Ö»¿ª·Åhttp¶Ë¿ÚµÄ¹«Ë¾ÄÚ²¿¾ÍÎŞ·¨Ê¹ÓÃsshĞ­Òé¶øÖ»ÄÜÓÃhttps
+1. git clone git@github.com:leavescourt/gitskills.git   å…‹éš†è¿œç¨‹ä»“åº“çš„gitä»“åº“
+2. è¿˜å¯ä»¥ç”¨https://github.com/michaelliao/gitskills.gitè¿™æ ·çš„åœ°å€
+3. ä½¿ç”¨httpsé™¤äº†é€Ÿåº¦æ…¢ä»¥å¤–ï¼Œè¿˜æœ‰ä¸ªæœ€å¤§çš„éº»çƒ¦æ˜¯æ¯æ¬¡æ¨é€éƒ½å¿…é¡»è¾“å…¥å£ä»¤ï¼Œä½†æ˜¯åœ¨æŸäº›åªå¼€æ”¾httpç«¯å£çš„å…¬å¸å†…éƒ¨å°±æ— æ³•ä½¿ç”¨sshåè®®è€Œåªèƒ½ç”¨https
+4. git push -u origin master Â å‘è¿œç¨‹ä»“åº“æ¨é€å†…å®¹
